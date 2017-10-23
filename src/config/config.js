@@ -5,5 +5,5 @@ export default {
     databaseURL: "https://wikitest-63fdf.firebaseio.com",
     projectId: "wikitest-63fdf",
     storageBucket: "wikitest-63fdf.appspot.com",
-    messagingSenderId: "239418062752
+    messagingSenderId: "239418062752"
 };
